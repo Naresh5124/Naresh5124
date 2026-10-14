@@ -33,3 +33,4 @@ Current learning goals include improving retrieval quality, testing failure case
 ---
 
 *This profile reflects what I'm building and learning right now; I'll add projects here as they become real, documented repositories.*
+
